@@ -11,3 +11,8 @@ Tharsis Technologies is at the forefront of interplanetary exploration robotics.
 - Operate autonomously, utilizing advanced sensors for navigation accuracy.
 
 Discover more about our project's specifications, milestones, and the team behind the innovation in [Specifications](SPECIFICATIONS.md) and [Milestones & Benchmarks](MILESTONES_BENCHMARKS.md).
+
+## Contact Us
+For inquiries, collaboration, or more information, reach out at [contact@ttrover.com](mailto:contact@ttrover.com).
+
+Embark with us on this groundbreaking journey to unlock the mysteries of Mars.
