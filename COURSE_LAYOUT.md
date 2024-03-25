@@ -2,7 +2,7 @@
 
 Our rover faces the challenge of a meticulously designed course, mirroring the uneven and rugged terrain of Mars, including a precise replication of Olympus Mons slopes.
 
-![MRR Course Layout](images/mars_course_layout.png)
+![MRR Course Layout](image/Course_Layout.png)
 
 Objectives include sample retrieval and summit photography, demanding precision navigation and robust design. 
 

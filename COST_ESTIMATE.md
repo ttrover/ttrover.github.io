@@ -5,4 +5,4 @@ A transparent and detailed cost estimate underpins the MRR project, showcasing T
 - Labor: $50.00 per person-hour, with detailed tracking.
 - Component Classification: From bulk items to high-value parts, all meticulously documented.
 
-Refer to our detailed [Materials and Labor Cost List](materials_labor_cost_list.xlsx) for a breakdown of project expenses.
+Refer to our detailed [Materials and Labor Cost List](https://docs.google.com/spreadsheets/d/19dsXWfFJSZWeweWGWJS6QlGh1BD7qhmf/edit?usp=sharing&ouid=102693740870529442183&rtpof=true&sd=true) for a breakdown of project expenses.
