@@ -29,3 +29,5 @@ Tharsis Technologies is at the forefront of interplanetary exploration robotics.
 For inquiries, collaboration, or more information, reach out at [contact@ttrover.com](mailto:contact@ttrover.com).
 
 Embark with us on this groundbreaking journey to unlock the mysteries of Mars.
+
+@power by [github pages](https://github.com/ttrover/ttrover.github.io)
