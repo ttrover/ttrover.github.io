@@ -4,6 +4,8 @@
 
 Welcome to the Tharsis Technologies Rover Division's official project repository for the Mars Rover Robot (MRR) initiative. 
 
+![LOGO](image/LOGO.png)
+
 ## About Us
 Tharsis Technologies is at the forefront of interplanetary exploration robotics. Our mission is to design and deploy advanced robotic systems for the exploration of Mars, focusing on the detection and analysis of volcanic activity. This project, in collaboration with NASA, aims to traverse and study Olympus Mons, revealing secrets of the Martian environment.
 
