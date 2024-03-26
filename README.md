@@ -1,6 +1,6 @@
-# [NOTE: THIS IS FOR EDUCATION PURPOSE ONLY](https://manual.eg.poly.edu/index.php/Mars_Rover_Robot_(MRR)) 
-
 # Tharsis Technologies Rover Division
+
+# [NOTE: THIS IS FOR EDUCATION PURPOSE ONLY](https://manual.eg.poly.edu/index.php/Mars_Rover_Robot_(MRR)) 
 
 Welcome to the Tharsis Technologies Rover Division's official project repository for the Mars Rover Robot (MRR) initiative. 
 
