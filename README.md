@@ -33,3 +33,6 @@ For inquiries, collaboration, or more information, reach out at [contact@ttrover
 Embark with us on this groundbreaking journey to unlock the mysteries of Mars.
 
 @power by [github pages](https://github.com/ttrover/ttrover.github.io)
+
+## Note
+The GitHub Pages build for this repository has been paused, and a 404 error page has been added to indicate that the page is no longer available.
